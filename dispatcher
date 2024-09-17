@@ -1,0 +1,3 @@
+#!/bin/bash
+
+irr-apply &> /dev/null
